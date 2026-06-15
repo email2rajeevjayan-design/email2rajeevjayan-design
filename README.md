@@ -4,7 +4,7 @@
 ### Data Analyst · Healthcare Analytics · BI & SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeev-jayan-78294322b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=netlify&logoColor=white)](https://rajeevsportfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=netlify&logoColor=white)](https://rajeevsportfolio1.netlify.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email2rajeevjayan@gmail.com)
 [![Location](https://img.shields.io/badge/Bangalore,_India-4A90D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
